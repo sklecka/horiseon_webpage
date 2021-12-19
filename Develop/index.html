@@ -4,12 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!-- changed title from webpage to Horiseon -->
     <title>Horiseon</title>
 </head>
 
 <body>
     <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
+        <!-- added a href tag to make logo a home button -->
+        <h1><a href="/">Hori<span class="seo">seo</span>n</a></h1>
         <div>
             <ul>
                 <li>
@@ -26,7 +28,8 @@
     </div>
     <div class="hero"></div>
     <div class="content">
-        <div class="search-engine-optimization">
+        <!-- added id tag to allow top search engine optimization button to path to this section -->
+        <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -65,7 +68,8 @@
         </div>
         <div class="benefit-cost">
             <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png"></img>
+            <!-- img is a self closing tag so i deleted the unnecessary </img> -->
+            <img src="./assets/images/cost-management.png" />
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
