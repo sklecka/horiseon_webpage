@@ -82,6 +82,24 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+.content-main {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-main img {
+    max-height: 200px;
+}
+
+.content-main h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 /* Main Content Section End */
 
 /* Sidebar Begin */
@@ -96,44 +114,20 @@ p {
     background-color: #2589bd;
 }
 
-/* made a grouping of similar content */
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-sidebar {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* made a grouping of similar content */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3{
+.benefit-sidebar h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* made a grouping of similar content */
-.benefit-lead img, .benefit-brand img, .benefit-cost img{
+.benefit-sidebar img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* made a grouping of similar content */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* made a grouping of similar content */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
-}
-
-/* made a grouping of similar content */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 /* Sidebar End*/
 

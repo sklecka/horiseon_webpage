@@ -8,13 +8,18 @@ This is a webpage designed for Horiseon to showcase and promote their business.
 * HTML
 * CSS
 
+## Installation
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open index.html in your browser or VS Code
+
 ## Link to GitHub Repo
 
-[GitHub](https://sklecka.github.io/horiseon_webpage/) This contains the repository that holds all of the documents that allow this webpage to function.
+[GitHub](https://sklecka.github.io/horiseon_webpage/) :The repository containing all the Horiseon files.
 
-## Screenshot of Header Section
+## Screenshot
 
-![ScreenShot](./assets/images/screen-shot-1.jpg)
+![ScreenShot](./assets/images/fireshot-capture.png)
 
 ## Contribution
 
